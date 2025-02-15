@@ -1,0 +1,45 @@
+.tile {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+
+.top {
+    position: absolute;
+}
+
+.bottom {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    display: flex;
+}
+
+.tile-text {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.precipitation {
+    margin-top: 20px;
+    font-size: 50px;
+    font-weight: 800;
+    color: rgb(0, 128, 255);
+}
+
+.desc {
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.rain-icon {
+    font-size:250px;
+}

@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "Month": "Jan",
+        "Minimum": 21.48,
+        "Mean": 25.81,
+        "Maximum": 30.19,
+        "Precipitation": 280.81
+    },
+    {
+        "id": 2,
+        "Month": "Feb",
+        "Minimum": 21.47,
+        "Mean": 25.9,
+        "Maximum": 30.38,
+        "Precipitation": 254.82
+    },
+    {
+        "id": 3,
+        "Month": "Mar",
+        "Minimum": 21.63,
+        "Mean": 26.09,
+        "Maximum": 30.6,
+        "Precipitation": 287.91
+    },
+    {
+        "id": 4,
+        "Month": "Apr",
+        "Minimum": 21.83,
+        "Mean": 26.29,
+        "Maximum": 30.8,
+        "Precipitation": 276.09
+    },
+    {
+        "id": 5,
+        "Month": "May",
+        "Minimum": 21.73,
+        "Mean": 26.22,
+        "Maximum": 30.75,
+        "Precipitation": 227.14
+    },
+    {
+        "id": 6,
+        "Month": "Jun",
+        "Minimum": 21.36,
+        "Mean": 25.87,
+        "Maximum": 30.42,
+        "Precipitation": 185.78
+    },
+    {
+        "id": 7,
+        "Month": "Jul",
+        "Minimum": 20.98,
+        "Mean": 25.55,
+        "Maximum": 30.16,
+        "Precipitation": 167.58
+    },
+    {
+        "id": 8,
+        "Month": "Aug",
+        "Minimum": 20.9,
+        "Mean": 25.61,
+        "Maximum": 30.38,
+        "Precipitation": 161.93
+    },
+    {
+        "id": 9,
+        "Month": "Sep",
+        "Minimum": 21.04,
+        "Mean": 25.82,
+        "Maximum": 30.64,
+        "Precipitation": 166.35
+    },
+    {
+        "id": 10,
+        "Month": "Oct",
+        "Minimum": 21.33,
+        "Mean": 26.14,
+        "Maximum": 31,
+        "Precipitation": 209.86
+    },
+    {
+        "id": 11,
+        "Month": "Nov",
+        "Minimum": 21.5,
+        "Mean": 26.17,
+        "Maximum": 30.89,
+        "Precipitation": 253.92
+    },
+    {
+        "id": 12,
+        "Month": "Dec",
+        "Minimum": 21.63,
+        "Mean": 26.02,
+        "Maximum": 30.47,
+        "Precipitation": 294.89
+    }
+]

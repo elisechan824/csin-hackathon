@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Jakarta", "servers_active": 45 },
+    { "id": 2, "name": "Bandung", "servers_active": 29 },
+    { "id": 3, "name": "Surabaya", "servers_active": 83 }
+]

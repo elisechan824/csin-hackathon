@@ -1,0 +1,157 @@
+[
+    {
+        "id": "1",
+        "Year": "1993",
+        "Annual_Temp_Mean": "25.76"
+    },
+    {
+        "id": "2",
+        "Year": "1994",
+        "Annual_Temp_Mean": "25.79"
+    },
+    {
+        "id": "3",
+        "Year": "1995",
+        "Annual_Temp_Mean": "25.84"
+    },
+    {
+        "id": "4",
+        "Year": "1996",
+        "Annual_Temp_Mean": "25.85"
+    },
+    {
+        "id": "5",
+        "Year": "1997",
+        "Annual_Temp_Mean": "25.95"
+    },
+    {
+        "id": "6",
+        "Year": "1998",
+        "Annual_Temp_Mean": "26.18"
+    },
+    {
+        "id": "7",
+        "Year": "1999",
+        "Annual_Temp_Mean": "25.79"
+    },
+    {
+        "id": "8",
+        "Year": "2000",
+        "Annual_Temp_Mean": "25.86"
+    },
+    {
+        "id": "9",
+        "Year": "2001",
+        "Annual_Temp_Mean": "25.92"
+    },
+    {
+        "id": "10",
+        "Year": "2002",
+        "Annual_Temp_Mean": "26.06"
+    },
+    {
+        "id": "11",
+        "Year": "2003",
+        "Annual_Temp_Mean": "25.92"
+    },
+    {
+        "id": "12",
+        "Year": "2004",
+        "Annual_Temp_Mean": "25.92"
+    },
+    {
+        "id": "13",
+        "Year": "2005",
+        "Annual_Temp_Mean": "25.94"
+    },
+    {
+        "id": "14",
+        "Year": "2006",
+        "Annual_Temp_Mean": "25.83"
+    },
+    {
+        "id": "15",
+        "Year": "2007",
+        "Annual_Temp_Mean": "25.85"
+    },
+    {
+        "id": "16",
+        "Year": "2008",
+        "Annual_Temp_Mean": "25.72"
+    },
+    {
+        "id": "17",
+        "Year": "2009",
+        "Annual_Temp_Mean": "25.98"
+    },
+    {
+        "id": "18",
+        "Year": "2010",
+        "Annual_Temp_Mean": "26.09"
+    },
+    {
+        "id": "19",
+        "Year": "2011",
+        "Annual_Temp_Mean": "25.89"
+    },
+    {
+        "id": "20",
+        "Year": "2012",
+        "Annual_Temp_Mean": "25.99"
+    },
+    {
+        "id": "21",
+        "Year": "2013",
+        "Annual_Temp_Mean": "26.06"
+    },
+    {
+        "id": "22",
+        "Year": "2014",
+        "Annual_Temp_Mean": "26.04"
+    },
+    {
+        "id": "23",
+        "Year": "2015",
+        "Annual_Temp_Mean": "26.12"
+    },
+    {
+        "id": "24",
+        "Year": "2016",
+        "Annual_Temp_Mean": "26.24"
+    },
+    {
+        "id": "25",
+        "Year": "2017",
+        "Annual_Temp_Mean": "26.04"
+    },
+    {
+        "id": "26",
+        "Year": "2018",
+        "Annual_Temp_Mean": "26.05"
+    },
+    {
+        "id": "27",
+        "Year": "2019",
+        "Annual_Temp_Mean": "26.2"
+    },
+    {
+        "id": "28",
+        "Year": "2020",
+        "Annual_Temp_Mean": "26.2"
+    },
+    {
+        "id": "29",
+        "Year": "2021",
+        "Annual_Temp_Mean": "26.01"
+    },
+    {
+        "id": "30",
+        "Year": "2022",
+        "Annual_Temp_Mean": "25.96"
+    },
+    {
+        "id": "31",
+        "Year": "2023",
+        "Annual_Temp_Mean": "26.17"
+    }
+]

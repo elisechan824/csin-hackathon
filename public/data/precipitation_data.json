@@ -1,0 +1,157 @@
+[
+    {
+        "id": "1",
+        "Year": "1993",
+        "Annual_Precipitation": "2990.4817"
+    },
+    {
+        "id": "2",
+        "Year": "1994",
+        "Annual_Precipitation": "3005.0403"
+    },
+    {
+        "id": "3",
+        "Year": "1995",
+        "Annual_Precipitation": "3588.3894"
+    },
+    {
+        "id": "4",
+        "Year": "1996",
+        "Annual_Precipitation": "3279.4084"
+    },
+    {
+        "id": "5",
+        "Year": "1997",
+        "Annual_Precipitation": "2342.6814"
+    },
+    {
+        "id": "6",
+        "Year": "1998",
+        "Annual_Precipitation": "3524.3354"
+    },
+    {
+        "id": "7",
+        "Year": "1999",
+        "Annual_Precipitation": "3380.8242"
+    },
+    {
+        "id": "8",
+        "Year": "2000",
+        "Annual_Precipitation": "3345.4768"
+    },
+    {
+        "id": "9",
+        "Year": "2001",
+        "Annual_Precipitation": "3229.5305"
+    },
+    {
+        "id": "10",
+        "Year": "2002",
+        "Annual_Precipitation": "2710.366"
+    },
+    {
+        "id": "11",
+        "Year": "2003",
+        "Annual_Precipitation": "3076.247"
+    },
+    {
+        "id": "12",
+        "Year": "2004",
+        "Annual_Precipitation": "2796.8582"
+    },
+    {
+        "id": "13",
+        "Year": "2005",
+        "Annual_Precipitation": "3123.928"
+    },
+    {
+        "id": "14",
+        "Year": "2006",
+        "Annual_Precipitation": "2938.029"
+    },
+    {
+        "id": "15",
+        "Year": "2007",
+        "Annual_Precipitation": "3324.9883"
+    },
+    {
+        "id": "16",
+        "Year": "2008",
+        "Annual_Precipitation": "3469.9106"
+    },
+    {
+        "id": "17",
+        "Year": "2009",
+        "Annual_Precipitation": "2958.5571"
+    },
+    {
+        "id": "18",
+        "Year": "2010",
+        "Annual_Precipitation": "3773.515"
+    },
+    {
+        "id": "19",
+        "Year": "2011",
+        "Annual_Precipitation": "3257.664"
+    },
+    {
+        "id": "20",
+        "Year": "2012",
+        "Annual_Precipitation": "3340.6816"
+    },
+    {
+        "id": "21",
+        "Year": "2013",
+        "Annual_Precipitation": "3652.3726"
+    },
+    {
+        "id": "22",
+        "Year": "2014",
+        "Annual_Precipitation": "3072.5667"
+    },
+    {
+        "id": "23",
+        "Year": "2015",
+        "Annual_Precipitation": "2802.0144"
+    },
+    {
+        "id": "24",
+        "Year": "2016",
+        "Annual_Precipitation": "3754.9534"
+    },
+    {
+        "id": "25",
+        "Year": "2017",
+        "Annual_Precipitation": "3661.7627"
+    },
+    {
+        "id": "26",
+        "Year": "2018",
+        "Annual_Precipitation": "3210.189"
+    },
+    {
+        "id": "27",
+        "Year": "2019",
+        "Annual_Precipitation": "2868.7268"
+    },
+    {
+        "id": "28",
+        "Year": "2020",
+        "Annual_Precipitation": "3613.3914"
+    },
+    {
+        "id": "29",
+        "Year": "2021",
+        "Annual_Precipitation": "3506.876"
+    },
+    {
+        "id": "30",
+        "Year": "2022",
+        "Annual_Precipitation": "3572.854"
+    },
+    {
+        "id": "31",
+        "Year": "2023",
+        "Annual_Precipitation": "2951.8508"
+    }
+]
