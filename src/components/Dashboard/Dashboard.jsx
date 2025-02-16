@@ -1,5 +1,5 @@
 import { Card, CardContent, Typography } from '@mui/material';
-import { useGetList } from 'react-admin';
+import { useGetList, Title } from 'react-admin';
 import MapComponent from '../MapComponent/MapComponent';
 import TrendlineComponent from '../TrendlineComponent/TrendlineComponent';
 import BarGraphComponent from '../BarGraphComponent/BarGraphComponent';
@@ -17,6 +17,13 @@ const Dashboard = () => {
 
     return(
         <div className="dashboard-container"> 
+            <Title title="Climate Vulnerability in Indonesia" 
+                style={{
+                    "font-size":"27px",
+                    "margin-left":"10px",
+                    "font-weight":"bold"
+                }}
+            />
             <div className="left-side-container">
                 <Card id="MapContainer" className="map-card">
                     <CardContent className="card-content">
