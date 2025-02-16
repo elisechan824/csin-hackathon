@@ -17,7 +17,7 @@ const Dashboard = () => {
 
     return(
         <div className="dashboard-container"> 
-            <Title title="Climate Vulnerability in Indonesia" 
+            <Title title="Climate Vulnerability of Indonesian Data Centers" 
                 style={{
                     "font-size":"27px",
                     "margin-left":"10px",
